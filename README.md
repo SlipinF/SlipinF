@@ -32,6 +32,8 @@
 
 <img align="left" alt="SlipinF's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SlipinF&show_icons=true&hide_border=true&theme=merko" />
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SlipinF&repo=github-readme-stats)](https://github.com/SlipinF/EnvoirmentGeneration-)
+
 [website]: https://www.kacperduda.com/
 [youtube]: https://www.youtube.com/channel/UC4HtnRANoeDFqFd-_Be595A
 [instagram]: https://www.instagram.com/itzamnas/
