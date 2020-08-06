@@ -1,4 +1,4 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm Kacper - aka [SlipinF][website] 👋
 
 ## I'm a Husband, Father, Developer, and Teacher!
 - 🔭 I’m currently working on a [VS Code Course][website]!
@@ -7,12 +7,11 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
+### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="SlipinF.com" width="22px" src="https://www.kacperduda.com/" />][website]
+[<img align="left" alt="SlipinF | YouTube" width="22px" src="https://www.youtube.com/channel/UC4HtnRANoeDFqFd-_Be595A?view_as=subscriber" />][youtube]
+[<img align="left" alt="SlipinF | LinkedIn" width="22px" src="https://www.linkedin.com/in/kacper-duda-9a6995170/" />][linkedin]
 
 <br />
 
