@@ -9,9 +9,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="SlipinF.com" width="22px" src="https://www.kacperduda.com/" />][website]
-[<img align="left" alt="SlipinF | YouTube" width="22px" src="https://www.youtube.com/channel/UC4HtnRANoeDFqFd-_Be595A?view_as=subscriber" />][youtube]
+[<img align="left" alt="SlipinF.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="SlipinF | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="SlipinF | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="SlipinF | LinkedIn" width="22px" src="https://www.linkedin.com/in/kacper-duda-9a6995170/" />][linkedin]
+[<img align="left" alt="SlipinF | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
