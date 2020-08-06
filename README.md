@@ -32,10 +32,10 @@
 
 <img align="left" alt="SlipinF's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SlipinF&show_icons=true&hide_border=true&theme=merko" />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SlipinF&repo=EnvoirmentGeneration-&theme=merko)](https://github.com/SlipinF/EnvoirmentGeneration-)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SlipinF&repo=Witcher3_WildHunt_WitcherSense_v1&theme=merko)](https://github.com/SlipinF/Witcher3_WildHunt_WitcherSense_v1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SlipinF&repo=BoardGame_AI_Checkers_SchoolProject&theme=merko)](https://github.com/SlipinF/BoardGame_AI_Checkers_SchoolProject)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SlipinF&repo=ECS-Experiment&theme=merko)](https://github.com/SlipinF/ECS-Experiment)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SlipinF&repo=EnvoirmentGeneration-&theme=gotham)](https://github.com/SlipinF/EnvoirmentGeneration-)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SlipinF&repo=Witcher3_WildHunt_WitcherSense_v1&theme=gotham)](https://github.com/SlipinF/Witcher3_WildHunt_WitcherSense_v1)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SlipinF&repo=BoardGame_AI_Checkers_SchoolProject&theme=gotham)](https://github.com/SlipinF/BoardGame_AI_Checkers_SchoolProject)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SlipinF&repo=ECS-Experiment&theme=gotham)](https://github.com/SlipinF/ECS-Experiment)
 
 [website]: https://www.kacperduda.com/
 [youtube]: https://www.youtube.com/channel/UC4HtnRANoeDFqFd-_Be595A
