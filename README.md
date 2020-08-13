@@ -29,16 +29,13 @@
 <br />
 <br />
 
-
-<img align="left" alt="SlipinF's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SlipinF&show_icons=true&hide_border=true&theme=dark&count_private=true&hide=prs,issues,contribs" />
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SlipinFshow_icons=true&hide_border=true&theme=dark&count_private=true&hide=prs,issues,contribs" />
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SlipinF&repo=EnvoirmentGeneration-&theme=dark)](https://github.com/SlipinF/EnvoirmentGeneration-)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SlipinF&repo=Witcher3_WildHunt_WitcherSense_v1&theme=dark)](https://github.com/SlipinF/Witcher3_WildHunt_WitcherSense_v1)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SlipinF&repo=BoardGame_AI_Checkers_SchoolProject&theme=dark)](https://github.com/SlipinF/BoardGame_AI_Checkers_SchoolProject)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SlipinF&repo=ECS-Experiment&theme=dark)](https://github.com/SlipinF/ECS-Experiment)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SlipinF&repo=ECS-Experiment&theme=dark)](https://github.com/SlipinF/ECS-Experiment)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SlipinF&repo=ECS-Experiment&theme=dark)](https://github.com/SlipinF/EnvoirmentGeneration-)
 
 [website]: https://www.kacperduda.com/
 [youtube]: https://www.youtube.com/channel/UC4HtnRANoeDFqFd-_Be595A
