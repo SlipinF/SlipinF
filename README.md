@@ -29,7 +29,7 @@
 <br />
 <br />
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SlipinF&show_icons=true&hide_border=true&theme=dark&count_private=true&hide=prs,issues,contribs" />
+<img align="left" alt="Slipin.F's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SlipinF&show_icons=true&hide_border=true&theme=dark&count_private=true&hide=prs,issues,contribs" />
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SlipinF&repo=Witcher3_WildHunt_WitcherSense_v1&theme=dark)](https://github.com/SlipinF/Witcher3_WildHunt_WitcherSense_v1)
