@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a [Unanaunced Project][website]!
 - 🌱 I’m currently learning about Machine Learning
 - 👯 I’m looking to colaborate with talented Devs
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love Fighitng Games.
 
 ### Connect with me:
