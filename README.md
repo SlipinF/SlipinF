@@ -5,7 +5,6 @@
 - 👯 I’m looking to colaborate with talented Devs
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love Fighting Games.
-
 ### Connect with me:
 
 [<img align="left" alt="SlipinF.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
