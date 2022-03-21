@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning about Machine Learning
 - 👯 I’m looking to colaborate with talented Devs
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love Fighitng Games.
+- ⚡ Fun fact: I love Fighting Games.
 
 ### Connect with me:
 
