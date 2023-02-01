@@ -1,5 +1,6 @@
 ### Hi there, I'm Kacper - aka [SlipinF][website] 👋
 
+
 - 🔭 I’m currently working on a [Unanaunced Project][website]!
 - 🌱 I’m currently learning about Machine Learning
 - 👯 I’m looking to colaborate with talented Devs
