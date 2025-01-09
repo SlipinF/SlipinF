@@ -16,15 +16,14 @@
 <br />
 
 ### Languages and Tools:
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=git&textfill=000000&fill=ffc0cd&text=false)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=github&fill=ffc0cd&text=false)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=unity&fill=ffc0cd&text=false)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=unrealengine&fill=ffc0cd&text=false)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=csharp&fill=ffc0cd&text=false)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=python&fill=ffc0cd&text=false)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=notion&fill=ffc0cd&text=false)
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
-[<img align="left" alt="C#" width="26px" src="https://camo.githubusercontent.com/cd8c0b81c79653b3b5232bb11836ba8008f9d09f/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f632d73686172702e737667" />][website]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
-[<img align="left" alt=".NET" width="26px" src="https://raw.githubusercontent.com/SlipinF/SlipinF/master/pngguru.com.png?token=AIAQMHJZ5GS3U6NJ6SDAV5K7FPM76" />][website]
-[<img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/SlipinF/SlipinF/master/kisspng-unity-3d-computer-graphics-video-games-augmented-r-5b8597ae9dafb7.3076071715354817746459.png?token=AIAQMHNPMSIBRCCLCIJNTMC7FPMUY" />][website]
-[<img align="left" alt="Unreal" width="26px" src="https://raw.githubusercontent.com/SlipinF/SlipinF/master/pngwave.png?token=AIAQMHOVILBL453WJUKMUBC7FPMYE" />][website]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 
 <br />
 <br />
